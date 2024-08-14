@@ -1,12 +1,13 @@
 {
   "name": "koishi-plugin-choose",
-  "description": "",
-  "version": "0.0.1",
+  "description": "从给定的选项中选择一个",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib",
-    "dist"
+    "dist",
+    "src"
   ],
   "license": "MIT",
   "keywords": [

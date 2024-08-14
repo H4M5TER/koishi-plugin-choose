@@ -2,5 +2,6 @@ commands:
   choose:
     description: 从给定的选项中选择一个
     messages:
-      no-choices: 请提供至少一个选项
+      no-delimiter: '' # no spam
+      same-choices: 这几个选项都是一样的！
       chosen: 你选择了 {0}
