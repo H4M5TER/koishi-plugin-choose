@@ -1,0 +1,6 @@
+commands:
+  choose:
+    description: 从给定的选项中选择一个
+    messages:
+      no-choices: 请提供至少一个选项
+      chosen: 你选择了 {0}
